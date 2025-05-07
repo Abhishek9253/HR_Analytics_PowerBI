@@ -1,6 +1,12 @@
-# 📊 HR Analytics Power BI Report:
+# HR Analytics Power BI Report:
+![image](https://github.com/user-attachments/assets/cbcb3bf5-5006-4068-b3c5-79e8a9b1f714)
+
+
 ## 🧠 Objective:
 This Power BI report is designed to provide deep insights into employee data for Human Resources analytics. It aims to help HR professionals and decision-makers understand workforce trends, monitor employee performance, and proactively manage attrition.
+
+## Entity Relationship Diagram:
+![Screenshot 2025-05-07 175333](https://github.com/user-attachments/assets/c15a153e-4b5e-4317-80da-c6428c4dfa70)
 
 ### The report is structured across four key pages:
 - Overview
@@ -17,6 +23,20 @@ This Power BI report is designed to provide deep insights into employee data for
 - Data modeling and transformation
 - Development of interactive dashboards
 - DAX for KPI calculations and time-based analysis
+
+### HR Analytics Overview Interface:
+![Screenshot 2025-05-07 175356](https://github.com/user-attachments/assets/e7d15ac7-3aac-41b1-a572-0f8e7b3f413a)
+
+
+### Demographics Interface:
+![Screenshot 2025-05-07 175416](https://github.com/user-attachments/assets/607d71fa-7834-43c8-93af-4eab664cd327)
+
+### Performance Tracker Interface:
+![Screenshot 2025-05-07 175433](https://github.com/user-attachments/assets/565362ae-f4c3-4e79-acd6-0f30186a11ed)
+
+### Attrition Interface:
+![Screenshot 2025-05-07 175450](https://github.com/user-attachments/assets/23dc25f0-6056-4aca-9a25-8c1b5beccef4)
+
 
 ## 📈 Key Insights:
 ### 🔍 General KPIs
